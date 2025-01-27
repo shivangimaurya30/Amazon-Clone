@@ -9,15 +9,15 @@ Product Display: Grid-based display of sample products with placeholders for ima
 Responsive Design: The layout is responsive, adjusting for different screen sizes.
 
 ## __Technologies Used__
-HTML: Structure of the page, content layout.
+HTML: Structure of the page, content layout. </br>
 CSS: Styling and layout, including flexbox and grid for responsiveness.
 
 ## __Future Plans__
 This project is just the beginning! Future contributions will include:
 
--Adding JavaScript for interactive features like product filtering, shopping cart, etc.
--Enhancing the UI/UX with more advanced CSS techniques and animations.
--Implementing backend functionality to simulate a real e-commerce experience.
+- Adding JavaScript for interactive features like product filtering, shopping cart, etc.
+- Enhancing the UI/UX with more advanced CSS techniques and animations.
+- Implementing backend functionality to simulate a real e-commerce experience.
 
 ## __Contributing__
 If you'd like to contribute to the project, feel free to fork the repository and create a pull request with your improvements. Contributions are welcome, and suggestions are always appreciated!
