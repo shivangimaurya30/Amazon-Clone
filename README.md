@@ -19,8 +19,6 @@ This project is just the beginning! Future contributions will include:
 - Enhancing the UI/UX with more advanced CSS techniques and animations.
 - Implementing backend functionality to simulate a real e-commerce experience.
 
-## __Contributing__
-If you'd like to contribute to the project, feel free to fork the repository and create a pull request with your improvements. Contributions are welcome, and suggestions are always appreciated!
 
 
 
